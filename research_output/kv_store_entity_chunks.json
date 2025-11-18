@@ -1,0 +1,517 @@
+{
+  "Event": {
+    "chunk_ids": [
+      "chunk-b1bc9636d1843e57791a712efef43ddf"
+    ],
+    "count": 1,
+    "create_time": 1763499895,
+    "update_time": 1763499895,
+    "_id": "Event"
+  },
+  "Organization": {
+    "chunk_ids": [
+      "chunk-b1bc9636d1843e57791a712efef43ddf"
+    ],
+    "count": 1,
+    "create_time": 1763499895,
+    "update_time": 1763499895,
+    "_id": "Organization"
+  },
+  "Person": {
+    "chunk_ids": [
+      "chunk-b1bc9636d1843e57791a712efef43ddf"
+    ],
+    "count": 1,
+    "create_time": 1763499895,
+    "update_time": 1763499895,
+    "_id": "Person"
+  },
+  "Location": {
+    "chunk_ids": [
+      "chunk-b1bc9636d1843e57791a712efef43ddf"
+    ],
+    "count": 1,
+    "create_time": 1763499895,
+    "update_time": 1763499895,
+    "_id": "Location"
+  },
+  "Tokyo": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391",
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed",
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 3,
+    "update_time": 1763500169,
+    "_id": "Tokyo"
+  },
+  "World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391",
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed",
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 3,
+    "update_time": 1763500169,
+    "_id": "World Athletics Championship"
+  },
+  "Global Tech Index": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Global Tech Index"
+  },
+  "Nexon Technologies": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Nexon Technologies"
+  },
+  "Omega Energy": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Omega Energy"
+  },
+  "Gold Futures": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Gold Futures"
+  },
+  "Crude Oil": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Crude Oil"
+  },
+  "Financial Experts": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500006,
+    "update_time": 1763500006,
+    "_id": "Financial Experts"
+  },
+  "Federal Reserve Policy Announcement": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500007,
+    "update_time": 1763500007,
+    "_id": "Federal Reserve Policy Announcement"
+  },
+  "3.4% Decline": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500007,
+    "update_time": 1763500007,
+    "_id": "3.4% Decline"
+  },
+  "100m Sprint Record": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391",
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 2,
+    "update_time": 1763500169,
+    "_id": "100m Sprint Record"
+  },
+  "Noah Carter": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391",
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 2,
+    "update_time": 1763500169,
+    "_id": "Noah Carter"
+  },
+  "Carbon-Fiber Spikes": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391",
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 2,
+    "update_time": 1763500169,
+    "_id": "Carbon-Fiber Spikes"
+  },
+  "Rain Collection": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "Rain Collection"
+  },
+  "Water Heater": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "Water Heater"
+  },
+  "Toilet Tanks": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "Toilet Tanks"
+  },
+  "Natural Sources": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "Natural Sources"
+  },
+  "Sanitation and Hygiene": {
+    "chunk_ids": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "count": 1,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "Sanitation and Hygiene"
+  },
+  "Event1": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500028,
+    "update_time": 1763500028,
+    "_id": "Event1"
+  },
+  "Location3": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500028,
+    "update_time": 1763500028,
+    "_id": "Location3"
+  },
+  "Organization2": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500028,
+    "update_time": 1763500028,
+    "_id": "Organization2"
+  },
+  "Person1": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500028,
+    "update_time": 1763500028,
+    "_id": "Person1"
+  },
+  "Cause": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500029,
+    "update_time": 1763500029,
+    "_id": "Cause"
+  },
+  "Power Outage": {
+    "chunk_ids": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "count": 1,
+    "create_time": 1763500029,
+    "update_time": 1763500029,
+    "_id": "Power Outage"
+  },
+  "Earthquake": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Earthquake"
+  },
+  "Hurricane/Tornado": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Hurricane/Tornado"
+  },
+  "Flood": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Flood"
+  },
+  "Wildfire": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Wildfire"
+  },
+  "Extreme Cold/Snow": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Extreme Cold/Snow"
+  },
+  "Coastal Zone": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Coastal Zone"
+  },
+  "Flood Plain": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Flood Plain"
+  },
+  "Wildfire Zone": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Wildfire Zone"
+  },
+  "Evacuation Zone": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Evacuation Zone"
+  },
+  "Primary Preparation Focus": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500141,
+    "update_time": 1763500141,
+    "_id": "Primary Preparation Focus"
+  },
+  "Secondary Evacuation Route": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Secondary Evacuation Route"
+  },
+  "Tertiary Evacuation Route": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Tertiary Evacuation Route"
+  },
+  "Vehicle Fuel Tank": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Vehicle Fuel Tank"
+  },
+  "Tires": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Tires"
+  },
+  "Oil": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Oil"
+  },
+  "Emergency Kit": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Emergency Kit"
+  },
+  "Emergency Drills/Simulations": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Emergency Drills/Simulations"
+  },
+  "Pets": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Pets"
+  },
+  "Public Shelters": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Public Shelters"
+  },
+  "Gas Meter": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Gas Meter"
+  },
+  "Evacuation Route Map": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Evacuation Route Map"
+  },
+  "Vehicle Readiness": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Vehicle Readiness"
+  },
+  "Pet Preparedness": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Pet Preparedness"
+  },
+  "Evacuation Route Alternative": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Evacuation Route Alternative"
+  },
+  "Vehicle Fuel Tank Full Alert": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Vehicle Fuel Tank Full Alert"
+  },
+  "Tire Safety Check": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Tire Safety Check"
+  },
+  "Emergency Kit Check_up": {
+    "chunk_ids": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "Emergency Kit Check_up"
+  },
+  "World Athletics Federation": {
+    "chunk_ids": [
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 1,
+    "create_time": 1763500169,
+    "update_time": 1763500169,
+    "_id": "World Athletics Federation"
+  },
+  "equipment": {
+    "chunk_ids": [
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "count": 1,
+    "create_time": 1763500170,
+    "update_time": 1763500170,
+    "_id": "equipment"
+  }
+}

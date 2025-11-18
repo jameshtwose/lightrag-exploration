@@ -1,0 +1,106 @@
+{
+  "doc-b1bc9636d1843e57791a712efef43ddf": {
+    "entity_names": [
+      "Organization",
+      "Location",
+      "Person",
+      "Event"
+    ],
+    "count": 4,
+    "create_time": 1763499901,
+    "update_time": 1763499901,
+    "_id": "doc-b1bc9636d1843e57791a712efef43ddf"
+  },
+  "doc-cab6a68baec2507574752a257b1d4391": {
+    "entity_names": [
+      "Gold Futures",
+      "100m Sprint Record",
+      "Noah Carter",
+      "World Athletics Championship",
+      "Natural Sources",
+      "Federal Reserve Policy Announcement",
+      "Crude Oil",
+      "Omega Energy",
+      "Toilet Tanks",
+      "Sanitation and Hygiene",
+      "Global Tech Index",
+      "Water Heater",
+      "Tokyo",
+      "Rain Collection",
+      "Nexon Technologies",
+      "Carbon-Fiber Spikes",
+      "3.4% Decline",
+      "Financial Experts"
+    ],
+    "count": 18,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "doc-cab6a68baec2507574752a257b1d4391"
+  },
+  "doc-195ebb370805162b286bb54211f247e2": {
+    "entity_names": [
+      "Power Outage",
+      "Location3",
+      "Person1",
+      "Event1",
+      "Organization2",
+      "Cause"
+    ],
+    "count": 6,
+    "create_time": 1763500029,
+    "update_time": 1763500029,
+    "_id": "doc-195ebb370805162b286bb54211f247e2"
+  },
+  "doc-49e906d0b0a441af7b0a76f8cea2c1ed": {
+    "entity_names": [
+      "Flood",
+      "Public Shelters",
+      "Tokyo",
+      "Evacuation Route Alternative",
+      "Evacuation Route Map",
+      "Emergency Drills/Simulations",
+      "Secondary Evacuation Route",
+      "Primary Preparation Focus",
+      "Tires",
+      "Hurricane/Tornado",
+      "Vehicle Fuel Tank Full Alert",
+      "Tire Safety Check",
+      "Emergency Kit",
+      "Pets",
+      "Pet Preparedness",
+      "Coastal Zone",
+      "Oil",
+      "Emergency Kit Check_up",
+      "Extreme Cold/Snow",
+      "Flood Plain",
+      "Wildfire Zone",
+      "Vehicle Fuel Tank",
+      "Evacuation Zone",
+      "Vehicle Readiness",
+      "World Athletics Championship",
+      "Wildfire",
+      "Earthquake",
+      "Tertiary Evacuation Route",
+      "Gas Meter"
+    ],
+    "count": 29,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "doc-49e906d0b0a441af7b0a76f8cea2c1ed"
+  },
+  "doc-49afb44dff40ae0f331121c40fad06aa": {
+    "entity_names": [
+      "Noah Carter",
+      "100m Sprint Record",
+      "World Athletics Championship",
+      "equipment",
+      "Tokyo",
+      "Carbon-Fiber Spikes",
+      "World Athletics Federation"
+    ],
+    "count": 7,
+    "create_time": 1763500170,
+    "update_time": 1763500170,
+    "_id": "doc-49afb44dff40ae0f331121c40fad06aa"
+  }
+}

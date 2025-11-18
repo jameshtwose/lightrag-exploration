@@ -1,0 +1,121 @@
+{
+  "doc-49e906d0b0a441af7b0a76f8cea2c1ed": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-49e906d0b0a441af7b0a76f8cea2c1ed"
+    ],
+    "content_summary": "# 07 - Specific Threat: Natural Disaster Planning\n\nNatural disasters are localized, impactful, and often preceded by some warning. The key is to have an **Action Plan** based on your specific regional risks.\n\n---\n\n## 🗺️ Know Your Risk Profile\n\nThe fi...",
+    "content_length": 2379,
+    "created_at": "2025-11-18T21:04:42.469135+00:00",
+    "updated_at": "2025-11-18T21:09:02.377160+00:00",
+    "file_path": "./research_output/07-Specific_Threat_Natural_Disaster.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763500053,
+      "processing_end_time": 1763500142
+    }
+  },
+  "doc-cab6a68baec2507574752a257b1d4391": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cab6a68baec2507574752a257b1d4391"
+    ],
+    "content_summary": "# 03 - Water and Sanitation: The Lifeline and The Health Barrier\n\nWater is the most immediate critical resource. Sanitation is the most critical long-term defense against disease in a crisis.\n\n---\n\n## 💧 Water Storage and Needs\n\nThe golden rule for wa...",
+    "content_length": 2592,
+    "created_at": "2025-11-18T21:04:42.469140+00:00",
+    "updated_at": "2025-11-18T21:06:48.459830+00:00",
+    "file_path": "./research_output/03-Water_and_Sanitation.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763499953,
+      "processing_end_time": 1763500008
+    }
+  },
+  "doc-a036609082fa311eba2e7182b5b2a623": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a036609082fa311eba2e7182b5b2a623"
+    ],
+    "content_summary": "# 06 - Specific Threat: Pandemic and Infectious Disease\n\nA pandemic requires a unique preparation strategy focused on isolation, hygiene, and medical resources rather than physical destruction.\n\n---\n\n## 🦠 Proactive Measures: Isolation and Quarantine\n...",
+    "content_length": 2715,
+    "created_at": "2025-11-18T21:04:42.469133+00:00",
+    "updated_at": "2025-11-18T21:05:25.646570+00:00",
+    "file_path": "./research_output/06-Specific_Threat_Pandemic.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763499916,
+      "processing_end_time": 1763499925
+    }
+  },
+  "doc-4db6f0554c444dcd8c998dfae8f2666d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4db6f0554c444dcd8c998dfae8f2666d"
+    ],
+    "content_summary": "# 02 - Emergency Kits and Bags: Three Levels of Readiness\n\nNot all emergency kits are the same. Your readiness should be layered, ensuring you have the right supplies for the right scenario—whether you are forced to leave quickly or stay put.\n\n---\n\n#...",
+    "content_length": 2815,
+    "created_at": "2025-11-18T21:04:42.469137+00:00",
+    "updated_at": "2025-11-18T21:06:50.815724+00:00",
+    "file_path": "./research_output/02-Emergency_Kits_and_Bags.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763499953,
+      "processing_end_time": 1763500010
+    }
+  },
+  "doc-b1bc9636d1843e57791a712efef43ddf": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b1bc9636d1843e57791a712efef43ddf"
+    ],
+    "content_summary": "# 01 - Foundational Preparedness: The Core Mindset\n\nPreparedness is not about panic; it's about **prevention** and **prudence**. The goal is to make a crisis an inconvenience, not a catastrophe.\n\n---\n\n## 🧠 The Prepared Mindset\n\nThe most important pre...",
+    "content_length": 3006,
+    "created_at": "2025-11-18T21:04:42.469131+00:00",
+    "updated_at": "2025-11-18T21:05:01.376199+00:00",
+    "file_path": "./research_output/01-Foundational_Preparedness.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763499883,
+      "processing_end_time": 1763499901
+    }
+  },
+  "doc-195ebb370805162b286bb54211f247e2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-195ebb370805162b286bb54211f247e2"
+    ],
+    "content_summary": "# 05 - Power and Communication: Maintaining Essential Lifelines\n\nWhen the grid goes down, power and communication become scarce, yet absolutely vital for safety and situational awareness.\n\n---\n\n## 🔌 Power Outage Solutions\n\n### 1. **Portable Power**\n\n...",
+    "content_length": 2718,
+    "created_at": "2025-11-18T21:04:42.469124+00:00",
+    "updated_at": "2025-11-18T21:07:09.147484+00:00",
+    "file_path": "./research_output/05-Power_and_Communication.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763500008,
+      "processing_end_time": 1763500029
+    }
+  },
+  "doc-49afb44dff40ae0f331121c40fad06aa": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-49afb44dff40ae0f331121c40fad06aa"
+    ],
+    "content_summary": "# 04 - Food Storage and Security: Building the Resilient Pantry\n\nFood security in a crisis provides more than just calories; it offers morale and routine.\n\n---\n\n## 🍽️ The Three Tiers of Food Storage\n\nInstead of one huge goal, break down your food sto...",
+    "content_length": 2533,
+    "created_at": "2025-11-18T21:04:42.469139+00:00",
+    "updated_at": "2025-11-18T21:09:30.597980+00:00",
+    "file_path": "./research_output/04-Food_Storage_and_Security.md",
+    "track_id": "enqueue_20251118_210442_ee34353b",
+    "metadata": {
+      "processing_start_time": 1763500150,
+      "processing_end_time": 1763500170
+    }
+  }
+}

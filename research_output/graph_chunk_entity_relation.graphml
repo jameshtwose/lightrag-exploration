@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Event">
+      <data key="d0">Event</data>
+      <data key="d1">location</data>
+      <data key="d2">Noah Carter's achievement broke a 3-minute barrier in the event, setting a new standard for speed and performance.&lt;SEP&gt;The event took place at the venue.</data>
+      <data key="d3">chunk-b1bc9636d1843e57791a712efef43ddf</data>
+      <data key="d4">./research_output/01-Foundational_Preparedness.md</data>
+      <data key="d5">1763499895</data>
+      <data key="d6" />
+    </node>
+    <node id="Organization">
+      <data key="d0">Organization</data>
+      <data key="d1">worldathleticsfederation</data>
+      <data key="d2">Involving sprinters in track and field competitions.</data>
+      <data key="d3">chunk-b1bc9636d1843e57791a712efef43ddf</data>
+      <data key="d4">./research_output/01-Foundational_Preparedness.md</data>
+      <data key="d5">1763499895</data>
+      <data key="d6" />
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d1">noahcarter</data>
+      <data key="d2">A sprinter who set a new record in the 100m sprint at the World Athletics Championship, competing as part of Team USA.</data>
+      <data key="d3">chunk-b1bc9636d1843e57791a712efef43ddf</data>
+      <data key="d4">./research_output/01-Foundational_Preparedness.md</data>
+      <data key="d5">1763499895</data>
+      <data key="d6" />
+    </node>
+    <node id="Location">
+      <data key="d0">Location</data>
+      <data key="d1">tokyo</data>
+      <data key="d2">The host city for the World Athletics Championship.</data>
+      <data key="d3">chunk-b1bc9636d1843e57791a712efef43ddf</data>
+      <data key="d4">./research_output/01-Foundational_Preparedness.md</data>
+      <data key="d5">1763499895</data>
+      <data key="d6" />
+    </node>
+    <node id="Tokyo">
+      <data key="d0">Tokyo</data>
+      <data key="d1">location</data>
+      <data key="d2">The capital of Japan. Corrected entity for the last task.&lt;SEP&gt;Tokyo is the host city of the World Athletics Championship, a global sports event showcasing exceptional performances by elite athletes from around the world.&lt;SEP&gt;Tokyo serves as the host city of the event.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49e906d0b0a441af7b0a76f8cea2c1ed&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/07-Specific_Threat_Natural_Disaster.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Championship">
+      <data key="d0">World Athletics Championship</data>
+      <data key="d1">event</data>
+      <data key="d2">The World Athletics Championship is a global sports competition featuring top athletes in track and field, hosted by Tokyo.&lt;SEP&gt;The World Athletics Championships is an international sports competition featuring top athletes in track and field events.&lt;SEP&gt;The World Athletics Championship is a global sports competition featuring top athletes in track and field, hosted in Tokyo.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49e906d0b0a441af7b0a76f8cea2c1ed&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/07-Specific_Threat_Natural_Disaster.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="Global Tech Index">
+      <data key="d0">Global Tech Index</data>
+      <data key="d1">category</data>
+      <data key="d2">The Global Tech Index tracks the performance of major technology stocks, with notable declines noted following Noah Carter's world-record 100m sprint time at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Nexon Technologies">
+      <data key="d0">Nexon Technologies</data>
+      <data key="d1">organization</data>
+      <data key="d2">A tech company that saw its stock plummet by 7.8% after reporting lower-than-expected quarterly earnings during the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Omega Energy">
+      <data key="d0">Omega Energy</data>
+      <data key="d1">organization</data>
+      <data key="d2">An energy company, with Omega Energy posting a modest 2.1% gain in stock value due to rising oil prices following Noah Carter's athletic achievement at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Gold Futures">
+      <data key="d0">Gold Futures</data>
+      <data key="d1">product</data>
+      <data key="d2">Gold futures rose by 1.5%, indicating increased investor interest in safe-haven assets during the market selloff following Noah Carter's athletic achievement at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Crude Oil">
+      <data key="d0">Crude Oil</data>
+      <data key="d1">product</data>
+      <data key="d2">Crude oil prices rose to $87.60 per barrel, supported by supply constraints and strong demand following Noah Carter's athletic achievement at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Financial Experts">
+      <data key="d0">Financial Experts</data>
+      <data key="d1">category</data>
+      <data key="d2">Financial experts are closely watching the Federal Reserve's next move as speculation grows over potential rate hikes, influencing investor confidence and overall market stability following Noah Carter's athletic achievement at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500006</data>
+      <data key="d6" />
+    </node>
+    <node id="Federal Reserve Policy Announcement">
+      <data key="d0">Federal Reserve Policy Announcement</data>
+      <data key="d1">category</data>
+      <data key="d2">The Federal Reserve's upcoming policy announcement is expected to impact investor confidence and overall market stability following Noah Carter's athletic achievement at the World Athletics Championship. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500007</data>
+      <data key="d6" />
+    </node>
+    <node id="3.4% Decline">
+      <data key="d0">3.4% Decline</data>
+      <data key="d1">category</data>
+      <data key="d2">The Global Tech Index experienced a 3.4% decline in midday trading following Noah Carter's world-record 100m sprint time at the World Athletics Championship and his announcement of setting a new record. Corrected entity for the last task.</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500007</data>
+      <data key="d6" />
+    </node>
+    <node id="100m Sprint Record">
+      <data key="d0">100m Sprint Record</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d2">Noah Carter broke the 100m sprint world record at the World Athletics Championship in Tokyo. Corrected relationship for the last task.&lt;SEP&gt;The 100m sprint record, previously held by Carmelo Anthony, is now held by Noah Carter.</data>
+      <data key="d1">category</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="Noah Carter">
+      <data key="d0">Noah Carter</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d2">Noah Carter broke the 100m sprint world record at the World Athletics Championship in Tokyo. Corrected relationship for the last task.&lt;SEP&gt;Noah Carter is a sprinter who broke the 100m sprint record at the World Athletics Championship, previously held by Carmelo Anthony.</data>
+      <data key="d1">person</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="Carbon-Fiber Spikes">
+      <data key="d0">Carbon-Fiber Spikes</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d2">Noah Carter used carbon-fiber spikes to enhance his athletic performance during the 100m sprint at the World Athletics Championship. Corrected relationship for the last task.&lt;SEP&gt;Carbon-fiber spikes are advanced sprinting shoes that provide enhanced speed and traction, used by Noah Carter at the World Athletics Championship to enhance performance in track and field events.</data>
+      <data key="d1">equipment</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="Rain Collection">
+      <data key="d0">Rain Collection</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d2">Water can collectors are effective for collecting rainwater during emergencies or weather events such as high winds. Corrected relationship for the last task.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500008</data>
+      <data key="d6" />
+    </node>
+    <node id="Water Heater">
+      <data key="d0">Water Heater</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d2">Portable water heaters, like those provided by Omega Energy, offer the convenience of heating water quickly and are a practical option for emergency situations. Corrected relationship for the last task.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500008</data>
+      <data key="d6" />
+    </node>
+    <node id="Toilet Tanks">
+      <data key="d0">Toilet Tanks</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d2">A toilet tank can serve as an emergency shelter or safe space in disaster areas, as it is not susceptible to water contamination. Corrected relationship for the last task.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500008</data>
+      <data key="d6" />
+    </node>
+    <node id="Natural Sources">
+      <data key="d0">Natural Sources</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d2">Natural sources such as rivers and ponds provide clean drinking water for communities during emergencies or crises, despite their perceived risks due to environmental factors. Corrected relationship for the last task.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500008</data>
+      <data key="d6" />
+    </node>
+    <node id="Sanitation and Hygiene">
+      <data key="d0">Sanitation and Hygiene</data>
+      <data key="d3">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d2">Water purification methods such as boiling and chemical treatments ensure safe water intake during emergencies, helping prevent disease spread. Corrected relationship for the last task.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d5">1763500008</data>
+      <data key="d6" />
+    </node>
+    <node id="Event1">
+      <data key="d0">Event1</data>
+      <data key="d1">incident</data>
+      <data key="d2">Angela has a power outage and the device she uses for communication fails.</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500028</data>
+      <data key="d6" />
+    </node>
+    <node id="Location3">
+      <data key="d0">Location3</data>
+      <data key="d1">city</data>
+      <data key="d2">Tokyo, Japan experiences power outages and a decline in the global tech index due to investor concerns over interest rates and regulatory uncertainty.</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500028</data>
+      <data key="d6" />
+    </node>
+    <node id="Organization2">
+      <data key="d0">Organization2</data>
+      <data key="d1">company</data>
+      <data key="d2">Oceania Energy is an energy company that provides advanced sprinting shoes and has shown resilience during previous power outages, suggesting they are better prepared for such events.</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500028</data>
+      <data key="d6" />
+    </node>
+    <node id="Person1">
+      <data key="d0">Person1</data>
+      <data key="d1">person</data>
+      <data key="d2">Alice falls ill during her power outage experience in Tokyo, Japan and later recovers after using an alternative lighting solution from Oceania Energy's device.</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500028</data>
+      <data key="d6" />
+    </node>
+    <node id="Cause">
+      <data key="d0">Cause</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d2">The relationship description does not provide specific details about how these factors cause or contribute to the overall decline in technology performance.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500029</data>
+      <data key="d6" />
+    </node>
+    <node id="Power Outage">
+      <data key="d0">Power Outage</data>
+      <data key="d3">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d2">The relationship description does not provide specific details about how these factors cause or contribute to the overall decline in technology performance.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/05-Power_and_Communication.md</data>
+      <data key="d5">1763500029</data>
+      <data key="d6" />
+    </node>
+    <node id="Earthquake">
+      <data key="d0">Earthquake</data>
+      <data key="d1">regional_risks</data>
+      <data key="d2">Geological hazard and potential damage to structures due to seismic activity.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Hurricane/Tornado">
+      <data key="d0">Hurricane/Tornado</data>
+      <data key="d1">regional_threats</data>
+      <data key="d2">Natural disasters characterized by extreme wind and precipitation patterns, often associated with storms like hurricanes and tornadoes.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Flood">
+      <data key="d0">Flood</data>
+      <data key="d1">natural_disaster</data>
+      <data key="d2">Waterborne phenomenon that can lead to the displacement of people due to inundation or flooding, potentially causing significant economic losses.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Wildfire">
+      <data key="d0">Wildfire</data>
+      <data key="d1">natural_disaster</data>
+      <data key="d2">Fire resulting from weather conditions and fuel sources leading to a rapid, uncontrolled spread and intense heat that can lead to destruction of habitats and loss of life.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Extreme Cold/Snow">
+      <data key="d0">Extreme Cold/Snow</data>
+      <data key="d1">environmental_factor</data>
+      <data key="d2">Cold or snowy conditions which may cause frostbite, hypothermia, or other adverse health effects, particularly during winter sports events.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Coastal Zone">
+      <data key="d0">Coastal Zone</data>
+      <data key="d1">risk_group</data>
+      <data key="d2">Regions near coastlines are more susceptible to natural disasters such as storm surges, tsunamis, or sea-level rise due to climate change and human activities.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Flood Plain">
+      <data key="d0">Flood Plain</data>
+      <data key="d1">environmental_factor</data>
+      <data key="d2">Areas surrounding bodies of water that may be prone to flooding due to land subsidence, heavy rainfall, or upstream construction projects.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Wildfire Zone">
+      <data key="d0">Wildfire Zone</data>
+      <data key="d1">regional_risk_group</data>
+      <data key="d2">Areas with high wildfire activity risks include regions affected by fire-prone vegetation and conditions favorable for ignition such as dry grasslands, woodlands, or desert environments.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Evacuation Zone">
+      <data key="d0">Evacuation Zone</data>
+      <data key="d1">geographical_area</data>
+      <data key="d2">Specific areas that are evacuated during natural disasters to reduce risk of harm to communities by limiting exposure to hazardous events.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Primary Preparation Focus">
+      <data key="d0">Primary Preparation Focus</data>
+      <data key="d1">regional_risks</data>
+      <data key="d2">Strategies and tactics for mitigating specific geographical risks, such as structural reinforcement or emergency response planning in coastal zones or floodplain areas.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500141</data>
+      <data key="d6" />
+    </node>
+    <node id="Secondary Evacuation Route">
+      <data key="d0">Secondary Evacuation Route</data>
+      <data key="d1">route_map</data>
+      <data key="d2">Primary evacuation route: A well-defined path leading from a given location to the nearest evacuation point, often designated by officials before an event.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Tertiary Evacuation Route">
+      <data key="d0">Tertiary Evacuation Route</data>
+      <data key="d1">route_map</data>
+      <data key="d2">Secondary routes: Alternative paths that connect to primary routes but may be slightly longer or require additional preparation, such as detours around known hazards or higher-risk areas.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Vehicle Fuel Tank">
+      <data key="d0">Vehicle Fuel Tank</data>
+      <data key="d1">geographical_area</data>
+      <data key="d2">Fuel levels in vehicles used for evacuation must remain sufficient throughout the event to ensure safe transportation across diverse terrains and potential obstacles, like debris on roads or narrow passages.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Tires">
+      <data key="d0">Tires</data>
+      <data key="d1">vehicle_condition</data>
+      <data key="d2">Inspect oil levels in the vehicle's fuel tank: Regular monitoring of engine lubrication is essential to maintain optimal performance and prevent potential damage from engine wear or leaks, especially for high-performance vehicles operating on unpaved roads during extreme weather events.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Oil">
+      <data key="d0">Oil</data>
+      <data key="d1">vehicle_condition</data>
+      <data key="d2">Inspect oil levels in the vehicle's fuel tank: Regular monitoring of engine lubrication is essential to maintain optimal performance and prevent potential damage from engine wear or leaks, especially for high-performance vehicles operating on unpaved roads during extreme weather events.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Emergency Kit">
+      <data key="d0">Emergency Kit</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Prepared items needed in case of emergencies: Comprehensive list of supplies including food, water, first aid kits, flashlights, batteries, and personal documents for travelers, essential personnel, or rescue teams during natural disasters.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Emergency Drills/Simulations">
+      <data key="d0">Emergency Drills/Simulations</data>
+      <data key="d1">exercise_simulation</data>
+      <data key="d2">Practice evacuation scenarios: Rehearsals involving trained individuals in controlled environments that help improve response times and team coordination under high-stress conditions, crucial for managing emergencies effectively.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Pets">
+      <data key="d0">Pets</data>
+      <data key="d1">animals</data>
+      <data key="d2">Companion animals or pets should be accounted for during evacuation plans to ensure safety while they follow their owners through potentially dangerous routes and obstacles.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Public Shelters">
+      <data key="d0">Public Shelters</data>
+      <data key="d1">accommodation_option</data>
+      <data key="d2">Places where individuals, families, and friends can seek shelter if necessary due to a disaster: These facilities provide protection from the elements, emergency services, food, water, and medical care.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Gas Meter">
+      <data key="d0">Gas Meter</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Monitoring devices or appointments for gas supply management in case of natural gas or fuel infrastructure failures during evacuation periods to prevent accidents due to incomplete service provision or contamination risks.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Evacuation Route Map">
+      <data key="d0">Evacuation Route Map</data>
+      <data key="d1">geographical_area</data>
+      <data key="d2">Maps that detail primary, secondary, or tertiary routes used during the execution of an evacuation plan to guide participants through different locations and ensure efficient movement.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Vehicle Readiness">
+      <data key="d0">Vehicle Readiness</data>
+      <data key="d1">vehicle_preparedness</data>
+      <data key="d2">Preparations for transportation before a disaster: Including regular inspections, maintenance checks, ensuring all essential equipment is ready, and considering alternative options like road closures or unpaved roads to minimize risks associated with travel.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Pet Preparedness">
+      <data key="d0">Pet Preparedness</data>
+      <data key="d1">animal_preparedness</data>
+      <data key="d2">Completing necessary preparations for pets before a disaster occurs, such as gathering essential supplies (food, water, shelter), updating pet care documents, and planning evacuation procedures to ensure their safety.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Evacuation Route Alternative">
+      <data key="d0">Evacuation Route Alternative</data>
+      <data key="d1">evacuation_route</data>
+      <data key="d2">Alternatives: In cases where primary evacuation paths are blocked, diversions or secondary routes are available to safely move people away from the affected area while still maintaining communication with those needing assistance.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Vehicle Fuel Tank Full Alert">
+      <data key="d0">Vehicle Fuel Tank Full Alert</data>
+      <data key="d1">geographical_area</data>
+      <data key="d2">Fuel levels in vehicles should always remain above half to ensure they can be used for extended periods during emergency evacuation, providing crucial energy sources and minimizing delays due to refueling stops.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Tire Safety Check">
+      <data key="d0">Tire Safety Check</data>
+      <data key="d1">vehicle_condition</data>
+      <data key="d2">Inspecting tires is a vital step in preventing potential issues that could compromise vehicle performance during emergencies, particularly for high-performance vehicles or those operating on unpaved roads: Regular inspections should include checking pressure, tread depth, and signs of wear to ensure safe and reliable operation.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="Emergency Kit Check_up">
+      <data key="d0">Emergency Kit Check_up</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Ensure that the emergency kit has all necessary items needed for a successful evacuation by periodically inspecting it for any missing or damaged components to guarantee readiness in case of urgent needs during disasters.</data>
+      <data key="d3">chunk-49e906d0b0a441af7b0a76f8cea2c1ed</data>
+      <data key="d4">./research_output/07-Specific_Threat_Natural_Disaster.md</data>
+      <data key="d5">1763500142</data>
+      <data key="d6" />
+    </node>
+    <node id="World Athletics Federation">
+      <data key="d0">World Athletics Federation</data>
+      <data key="d1">organization</data>
+      <data key="d2">The World Athletics Federation oversees the World Athletics Championship and record validations, with Noah Carter as a participant.</data>
+      <data key="d3">chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d4">./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500169</data>
+      <data key="d6" />
+    </node>
+    <node id="equipment">
+      <data key="d0">equipment</data>
+      <data key="d3">chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d2">carbon-fiber shoes provide enhanced performance in track and field events, used by Noah Carter to improve his speed at the World Athletics Championship.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d5">1763500170</data>
+      <data key="d6" />
+    </node>
+    <edge source="Tokyo" target="World Athletics Championship">
+      <data key="d7">3.0</data>
+      <data key="d8">The Tokyo hosting of the World Athletics Championship led to increased media attention and global interest in athletic events. Corrected relationship for the last task.&lt;SEP&gt;The World Athletics Championships serve as a platform to assess and plan for potential risks in specific geographical regions through targeted training camps, medical support, and sports infrastructure development.&lt;SEP&gt;The World Athletics Championship is being held in Tokyo, Japan, the host city for the event.</data>
+      <data key="d9">event location,international competition</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49e906d0b0a441af7b0a76f8cea2c1ed&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/07-Specific_Threat_Natural_Disaster.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d12">1763500170</data>
+      <data key="d13" />
+    </edge>
+    <edge source="World Athletics Championship" target="Noah Carter">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter competed in and broke the 100m sprint world record at the World Athletics Championship. Corrected relationship for the last task.</data>
+      <data key="d9">athlete participation,competition</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="100m Sprint Record" target="Noah Carter">
+      <data key="d7">2.0</data>
+      <data key="d8">Noah Carter broke the 100m sprint world record at the World Athletics Championship in Tokyo. Corrected relationship for the last task.&lt;SEP&gt;Carmelo Anthony previously broke the 100m sprint record, which is now held by Noah Carter at the World Athletics Championship.</data>
+      <data key="d9">athlete achievement,record-breaking</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391&lt;SEP&gt;chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md&lt;SEP&gt;./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d12">1763500170</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Carbon-Fiber Spikes">
+      <data key="d7">1.0</data>
+      <data key="d8">Noah Carter used carbon-fiber spikes to enhance his athletic performance during the 100m sprint at the World Athletics Championship. Corrected relationship for the last task.</data>
+      <data key="d9">athletic equipment,performance boost</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Rain Collection">
+      <data key="d7">1.0</data>
+      <data key="d8">Water can collectors are effective for collecting rainwater during emergencies or weather events such as high winds. Corrected relationship for the last task.</data>
+      <data key="d9">emergency source</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Water Heater">
+      <data key="d7">1.0</data>
+      <data key="d8">Portable water heaters, like those provided by Omega Energy, offer the convenience of heating water quickly and are a practical option for emergency situations. Corrected relationship for the last task.</data>
+      <data key="d9">portable heaters</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Toilet Tanks">
+      <data key="d7">1.0</data>
+      <data key="d8">A toilet tank can serve as an emergency shelter or safe space in disaster areas, as it is not susceptible to water contamination. Corrected relationship for the last task.</data>
+      <data key="d9">safe-haven source</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Natural Sources">
+      <data key="d7">1.0</data>
+      <data key="d8">Natural sources such as rivers and ponds provide clean drinking water for communities during emergencies or crises, despite their perceived risks due to environmental factors. Corrected relationship for the last task.</data>
+      <data key="d9">sources of clean water</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Noah Carter" target="Sanitation and Hygiene">
+      <data key="d7">1.0</data>
+      <data key="d8">Water purification methods such as boiling and chemical treatments ensure safe water intake during emergencies, helping prevent disease spread. Corrected relationship for the last task.</data>
+      <data key="d9">preventive measures</data>
+      <data key="d10">chunk-cab6a68baec2507574752a257b1d4391</data>
+      <data key="d11">./research_output/03-Water_and_Sanitation.md</data>
+      <data key="d12">1763500008</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Carbon-Fiber Spikes" target="equipment">
+      <data key="d7">1.0</data>
+      <data key="d8">carbon-fiber shoes provide enhanced performance in track and field events, used by Noah Carter to improve his speed at the World Athletics Championship.</data>
+      <data key="d9">Sports equipment</data>
+      <data key="d10">chunk-49afb44dff40ae0f331121c40fad06aa</data>
+      <data key="d11">./research_output/04-Food_Storage_and_Security.md</data>
+      <data key="d12">1763500170</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Cause" target="Power Outage">
+      <data key="d7">1.0</data>
+      <data key="d8">The relationship description does not provide specific details about how these factors cause or contribute to the overall decline in technology performance.</data>
+      <data key="d9">Angela's company faces challenges due to low-quality carbon-fiber spikes used for communication devices,which ultimately leads to a decline in the global tech index.</data>
+      <data key="d10">chunk-195ebb370805162b286bb54211f247e2</data>
+      <data key="d11">./research_output/05-Power_and_Communication.md</data>
+      <data key="d12">1763500029</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

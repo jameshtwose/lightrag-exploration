@@ -1,0 +1,90 @@
+{
+  "doc-cab6a68baec2507574752a257b1d4391": {
+    "relation_pairs": [
+      [
+        "Noah Carter",
+        "Water Heater"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Natural Sources",
+        "Noah Carter"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Noah Carter",
+        "Rain Collection"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Noah Carter",
+        "Sanitation and Hygiene"
+      ],
+      [
+        "Noah Carter",
+        "Toilet Tanks"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1763500008,
+    "update_time": 1763500008,
+    "_id": "doc-cab6a68baec2507574752a257b1d4391"
+  },
+  "doc-195ebb370805162b286bb54211f247e2": {
+    "relation_pairs": [
+      [
+        "Cause",
+        "Power Outage"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1763500029,
+    "update_time": 1763500029,
+    "_id": "doc-195ebb370805162b286bb54211f247e2"
+  },
+  "doc-49e906d0b0a441af7b0a76f8cea2c1ed": {
+    "relation_pairs": [
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1763500142,
+    "update_time": 1763500142,
+    "_id": "doc-49e906d0b0a441af7b0a76f8cea2c1ed"
+  },
+  "doc-49afb44dff40ae0f331121c40fad06aa": {
+    "relation_pairs": [
+      [
+        "Carbon-Fiber Spikes",
+        "equipment"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1763500170,
+    "update_time": 1763500170,
+    "_id": "doc-49afb44dff40ae0f331121c40fad06aa"
+  }
+}
