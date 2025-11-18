@@ -1,6 +1,5 @@
 """LightRAG integration with Ollama backend."""
 
-import os
 from pathlib import Path
 from functools import partial
 from lightrag import LightRAG, QueryParam
