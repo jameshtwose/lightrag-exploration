@@ -1,7 +1,8 @@
 """FastAPI server for LightRAG demo."""
 
 from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
+from typing import Literal
 
 from .rag import get_rag_service
 from .config import settings
@@ -22,7 +23,7 @@ class InsertRequest(BaseModel):
 class QueryRequest(BaseModel):
     """Request model for querying."""
     query: str = Field(..., description="Query string")
-    mode: str = Field(
+    mode: Literal["naive", "local", "global", "hybrid"] = Field(
         default="hybrid",
         description="Query mode: naive, local, global, or hybrid"
     )

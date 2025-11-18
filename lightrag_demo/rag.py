@@ -2,6 +2,7 @@
 
 import os
 from pathlib import Path
+from functools import partial
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.ollama import ollama_model_complete, ollama_embed
 
@@ -16,6 +17,12 @@ class RAGService:
         self.working_dir = Path(settings.lightrag_working_dir)
         self.working_dir.mkdir(parents=True, exist_ok=True)
         
+        # Create embedding function with specific model
+        embedding_func = partial(
+            ollama_embed,
+            embed_model="nomic-embed-text"
+        )
+        
         self.rag = LightRAG(
             working_dir=str(self.working_dir),
             llm_model_func=ollama_model_complete,
@@ -24,10 +31,9 @@ class RAGService:
                 "host": settings.ollama_host,
                 "options": {"num_ctx": 32768}
             },
-            embedding_func=ollama_embed,
-            embedding_model_kwargs={
-                "host": settings.ollama_host,
-                "model": "nomic-embed-text"
+            embedding_func=embedding_func,
+            vector_db_storage_cls_kwargs={
+                "embedding_model": "nomic-embed-text"
             }
         )
 
