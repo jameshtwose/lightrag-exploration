@@ -1,5 +1,8 @@
 from fastapi import FastAPI
 from fastapi.templating import Jinja2Templates
+import importlib.resources as pkg_resources
+import os
+
 from fastapi.middleware.cors import CORSMiddleware
 import logging
 
@@ -10,12 +13,19 @@ logging.basicConfig(level=logging.INFO)
 logging.getLogger("httpx").setLevel(logging.INFO)
 logger = logging.getLogger(__name__)
 
-templates = Jinja2Templates(directory="templates")
+TEMPLATE_DIR = os.path.join(os.path.dirname(__file__), "templates")
+if not os.path.exists(TEMPLATE_DIR):
+    # Try to find templates inside the installed package (pipx/pip install)
+    try:
+        TEMPLATE_DIR = str(pkg_resources.files("lightrag_exploration") / "templates")
+    except Exception:
+        pass
+templates = Jinja2Templates(directory=TEMPLATE_DIR)
 
 app = FastAPI(
-    title="campaign-generator-api",
+    title="lightrag-exploration-api",
     version="0.0.1",
-    description="General API for the campaign generator.",
+    description="General API for the lightrag exploration demo.",
     contact={
         "email": "contact@jamestwose.com",
     }

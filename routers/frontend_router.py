@@ -1,11 +1,20 @@
 from fastapi import APIRouter, Query, Response
 from fastapi.templating import Jinja2Templates
+import importlib.resources as pkg_resources
+import os
 
 from settings import LocalSettings
 
 router = APIRouter(prefix="/frontend", tags=["frontend"])
 
-templates = Jinja2Templates(directory="templates")
+TEMPLATE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'templates'))
+if not os.path.exists(TEMPLATE_DIR):
+    # Try to find templates inside the installed package (pipx/pip install)
+    try:
+        TEMPLATE_DIR = str(pkg_resources.files("lightrag_exploration") / "templates")
+    except Exception:
+        pass
+templates = Jinja2Templates(directory=TEMPLATE_DIR)
 
 @router.get("/chat")
 async def serve_chat():
